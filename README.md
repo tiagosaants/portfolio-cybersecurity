@@ -48,8 +48,8 @@ Sou Tiago Santos, desenvolvedor full stack com foco em segurança digital, intel
 ## 📫 Contato
 
 - LinkedIn: [linkedin.com/in/tiagosants](https://linkedin.com/in/tiagosants)  
-- GitHub: [github.com/tiagosants](https://github.com/tiagosants)  
-- E-mail: tiago@example.com
+- GitHub: [github.com/tiagosaants](https://github.com/tiagosaants)  
+- E-mail: sanguec@live.com
 
 ---
 
