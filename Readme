@@ -1,0 +1,22 @@
+# 🚨 Portfólio de Cibersegurança 🛡️ por Tiago Sants
+
+Bem-vindo ao meu laboratório digital de defesas, onde bits viram barreiras, logs contam histórias e ataques viram aprendizado.  
+Aqui você vai encontrar meus projetos práticos em **cibersegurança**, com foco em:
+
+🔍 Análise de vulnerabilidades • 🔐 Hardening de rede • ⚙️ Resposta a incidentes • 📊 SIEM & logs  
+🧠 IA aplicada à segurança • ⛓️ Blockchain & Web3 Security (em expansão)
+
+> Welcome to my digital security lab — where bits become shields, logs become stories, and breaches become lessons.
+
+---
+
+## 📁 Estrutura do Repositório | Repository Structure
+
+```bash
+portfolio-cybersecurity/
+├── projetos/
+│   ├── hardening-rede-org-midia/
+│   │   ├── README.md
+│   │   └── relatorio_projeto.pdf
+│   └── mais em breve 🚧
+└── README.md ← você está aqui!
