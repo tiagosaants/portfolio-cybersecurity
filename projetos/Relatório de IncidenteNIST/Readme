@@ -1,0 +1,41 @@
+# 🛡️ Incident Report – ICMP Flood DDoS Attack (NIST CSF)
+
+This project presents a structured cybersecurity incident report based on a simulated ICMP flood (DDoS) attack scenario. The report follows the NIST Cybersecurity Framework (CSF) core functions: Identify, Protect, Detect, Respond, and Recover.
+
+## 📄 Files
+
+- `incident_report_en.pdf`: Incident report in English
+- `incident_report_pt.pdf`: Incident report in Portuguese
+- `/images`: Optional illustrations (e.g., NIST CSF diagram)
+
+## 🔍 Scenario Overview
+
+- **Type of attack**: Distributed Denial of Service (DDoS)
+- **Method**: ICMP flood (ping flood)
+- **Impact**: Network unavailability for 2 hours
+- **Framework applied**: NIST Cybersecurity Framework
+
+## 🎯 Objective
+
+To demonstrate the application of cybersecurity incident handling using a structured approach that aligns with real-world industry standards. This report can be used as part of a cybersecurity portfolio or educational showcase.
+
+## 🧠 Topics Covered
+
+- Network Security
+- Firewall Configuration
+- IDS/IPS Implementation
+- DDoS Mitigation
+- Cybersecurity Frameworks
+
+## 📎 Related Skills
+
+- Incident Response
+- Risk Identification
+- Threat Mitigation
+- Network Monitoring
+- NIST CSF Application
+
+---
+
+✅ Made by [Tiago Sants](https://www.linkedin.com/in/tiago-sants-295a1565)  
+📧 sanguec@live.com | GitHub: [@tiagosaants](https://github.com/tiagosaants)
