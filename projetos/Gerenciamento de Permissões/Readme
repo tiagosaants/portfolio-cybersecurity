@@ -1,0 +1,25 @@
+# Portfólio de Segurança Linux - Gerenciamento de Permissões
+
+Este repositório contém um relatório desenvolvido para a atividade de portfólio do curso sobre gerenciamento de permissões em sistemas Linux.
+
+## Sobre o projeto
+
+Como profissional de segurança da informação, a tarefa foi garantir que os arquivos e diretórios do sistema tenham permissões corretas para manter a segurança da equipe de pesquisa. O relatório detalha:
+
+- Verificação das permissões existentes em arquivos e diretórios
+- Interpretação da cadeia de permissões do Linux
+- Uso do comando `chmod` para corrigir permissões inadequadas
+- Proteção de arquivos ocultos e diretórios
+- Confirmação das alterações realizadas
+
+## Arquivos
+
+- `Relatorio_Permissoes_Linux.docx`: Documento completo do relatório com introdução, desenvolvimento e conclusão.
+
+## Como usar
+
+Você pode abrir o arquivo `.pdf`  para revisar o conteúdo e os códigos utilizados.
+---
+
+Feito por Tiago Sants  
+Data: 2025
